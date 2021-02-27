@@ -1,1 +1,710 @@
-loadstring('\27\83\88\76\16\0\1\4\4\4\8\0\1\0\0\0\0\0\0\0\0\0\0\0\0\0\0\2\14\219\0\0\0\5\0\0\0\6\64\64\0\65\128\0\0\28\128\0\1\69\0\0\0\70\64\192\0\129\128\0\0\92\128\0\1\133\0\0\0\134\64\64\1\193\192\0\0\156\128\0\1\197\0\0\0\198\64\192\1\1\129\0\0\220\128\0\1\5\1\0\0\6\65\64\2\65\193\0\0\28\129\0\1\69\1\0\0\70\65\192\2\129\1\1\0\92\129\0\1\133\1\0\0\134\65\64\3\193\129\1\0\42\194\1\0\6\2\66\4\156\129\128\1\135\65\1\0\9\128\194\132\133\65\1\0\9\128\129\133\9\64\67\134\9\192\67\135\133\65\4\0\134\65\64\3\193\129\4\0\1\194\4\0\65\2\5\0\129\66\5\0\156\129\128\2\9\128\1\136\133\65\4\0\134\65\64\3\193\1\5\0\1\194\5\0\65\2\5\0\129\2\6\0\156\129\128\2\9\128\1\139\9\128\198\140\73\192\198\132\73\0\128\133\133\65\7\0\134\129\71\3\193\193\7\0\1\194\7\0\65\2\8\0\156\129\0\2\73\128\1\142\73\0\197\144\133\65\4\0\134\65\64\3\193\1\5\0\1\2\5\0\65\2\5\0\129\2\6\0\156\129\128\2\73\128\1\136\133\65\4\0\134\65\64\3\193\1\5\0\1\194\5\0\65\2\5\0\129\130\8\0\156\129\128\2\73\128\1\139\137\64\128\133\137\192\67\135\133\65\4\0\134\65\64\3\193\193\8\0\1\2\5\0\65\2\9\0\129\2\5\0\156\129\128\2\137\128\1\136\133\65\4\0\134\65\64\3\193\1\5\0\1\66\9\0\65\2\5\0\129\130\9\0\156\129\128\2\137\128\1\139\170\1\10\0\134\193\73\3\134\65\74\3\137\128\129\147\137\192\74\149\137\64\67\150\137\128\203\150\133\65\7\0\134\65\64\3\193\193\3\0\1\194\3\0\65\194\3\0\156\129\0\2\137\128\129\151\170\1\10\0\134\1\76\3\134\65\76\3\137\128\1\152\170\1\10\0\134\129\76\3\134\193\76\3\137\128\1\153\201\0\205\132\201\0\128\133\133\65\7\0\134\129\71\3\193\65\13\0\1\66\13\0\65\130\13\0\156\129\0\2\201\128\1\142\201\0\197\144\133\65\4\0\134\65\64\3\193\1\5\0\1\194\5\0\65\2\5\0\129\2\6\0\156\129\128\2\201\128\1\139\201\128\198\140\9\193\205\132\9\193\128\133\9\193\67\135\133\65\4\0\134\65\64\3\193\1\5\0\1\2\14\0\65\2\5\0\129\2\5\0\156\129\128\2\9\129\1\136\133\65\4\0\134\65\64\3\193\65\14\0\1\130\14\0\65\194\14\0\129\2\5\0\156\129\128\2\9\129\1\139\9\129\198\140\170\1\10\0\134\193\73\3\134\65\74\3\9\129\129\147\9\1\79\149\9\65\207\150\133\65\7\0\134\65\64\3\193\193\3\0\1\194\3\0\65\194\3\0\156\129\0\2\9\129\129\151\9\65\67\150\73\129\207\132\73\193\128\133\73\193\67\135\133\65\4\0\134\65\64\3\193\1\5\0\1\2\6\0\65\2\5\0\129\2\6\0\156\129\128\2\73\129\1\139\73\129\198\140\73\1\208\159\170\65\16\0\193\193\3\0\156\65\0\1\5\66\4\0\6\66\64\4\65\130\4\0\129\194\4\0\193\2\5\0\1\195\16\0\28\130\128\2\65\2\17\0\129\66\17\0\193\130\4\0\2\3\128\0\67\3\128\6\139\129\80\0\156\65\0\4\134\129\209\2\36\2\0\0\0\0\0\0\139\193\81\3\156\65\128\1\170\65\16\0\193\1\18\0\156\65\0\1\170\65\18\0\234\193\1\0\65\194\18\0\130\2\128\0\203\129\210\3\220\1\0\2\156\129\0\0\156\65\128\0\30\0\128\0\76\0\0\0\4\9\0\0\0\73\110\115\116\97\110\99\101\0\4\4\0\0\0\110\101\119\0\4\6\0\0\0\70\114\97\109\101\0\4\10\0\0\0\84\101\120\116\76\97\98\101\108\0\4\12\0\0\0\73\109\97\103\101\66\117\116\116\111\110\0\4\10\0\0\0\115\99\114\101\101\110\71\117\105\0\4\10\0\0\0\83\99\114\101\101\110\71\117\105\0\4\5\0\0\0\103\97\109\101\0\4\8\0\0\0\67\111\114\101\71\117\105\0\4\5\0\0\0\78\97\109\101\0\4\7\0\0\0\66\111\111\109\101\114\0\4\7\0\0\0\80\97\114\101\110\116\0\4\7\0\0\0\65\99\116\105\118\101\0\1\1\4\23\0\0\0\66\97\99\107\103\114\111\117\110\100\84\114\97\110\115\112\97\114\101\110\99\121\0\3\0\0\0\0\0\0\240\63\4\9\0\0\0\80\111\115\105\116\105\111\110\0\4\6\0\0\0\85\68\105\109\50\0\3\0\0\0\0\0\0\224\63\3\0\0\0\0\0\128\102\192\3\0\0\0\0\0\0\0\0\3\0\0\0\0\0\0\121\192\4\5\0\0\0\83\105\122\101\0\3\0\0\0\0\0\128\118\64\3\0\0\0\0\0\0\52\64\4\7\0\0\0\90\73\110\100\101\120\0\3\0\0\0\0\0\0\16\64\4\11\0\0\0\98\97\99\107\103\114\111\117\110\100\0\4\17\0\0\0\66\97\99\107\103\114\111\117\110\100\67\111\108\111\114\51\0\4\7\0\0\0\67\111\108\111\114\51\0\4\8\0\0\0\102\114\111\109\82\71\66\0\3\0\0\0\0\0\0\66\64\3\0\0\0\0\0\128\66\64\4\16\0\0\0\66\111\114\100\101\114\83\105\122\101\80\105\120\101\108\0\3\0\0\0\0\0\224\96\64\3\156\196\32\176\114\104\145\63\3\184\30\133\235\81\184\174\63\3\0\0\0\0\0\192\117\64\3\0\0\0\0\0\0\94\64\4\5\0\0\0\70\111\110\116\0\4\5\0\0\0\69\110\117\109\0\4\11\0\0\0\83\111\117\114\99\101\83\97\110\115\0\4\9\0\0\0\84\101\120\116\83\105\122\101\0\3\0\0\0\0\0\0\50\64\4\12\0\0\0\84\101\120\116\87\114\97\112\112\101\100\0\4\5\0\0\0\84\101\120\116\0\4\156\0\0\0\80\108\101\97\115\101\32\117\115\101\32\116\104\101\32\110\101\119\32\73\110\102\105\110\105\116\101\32\89\105\101\108\100\32\108\111\97\100\115\116\114\105\110\103\46\32\89\111\117\32\99\97\110\32\102\105\110\100\32\105\116\32\105\110\32\116\104\101\32\68\105\115\99\111\114\100\46\10\10\100\105\115\99\111\114\100\46\105\111\47\105\110\102\105\110\105\116\101\121\105\101\108\100\10\10\89\111\117\32\119\105\108\108\32\110\111\119\32\98\101\32\114\101\45\100\105\114\101\99\116\101\100\32\116\111\32\116\104\101\32\110\101\119\32\108\111\97\100\115\116\114\105\110\103\46\0\4\11\0\0\0\84\101\120\116\67\111\108\111\114\51\0\4\15\0\0\0\84\101\120\116\88\65\108\105\103\110\109\101\110\116\0\4\5\0\0\0\76\101\102\116\0\4\15\0\0\0\84\101\120\116\89\65\108\105\103\110\109\101\110\116\0\4\4\0\0\0\84\111\112\0\4\7\0\0\0\115\104\97\100\111\119\0\3\0\0\0\0\0\0\71\64\3\0\0\0\0\0\128\71\64\4\10\0\0\0\80\111\112\117\112\84\101\120\116\0\3\0\0\0\0\0\128\73\64\3\82\184\30\133\235\81\232\63\3\0\0\0\0\0\0\48\192\3\102\102\102\102\102\102\238\63\3\0\0\0\0\0\0\44\64\4\20\0\0\0\83\101\114\118\101\114\32\65\110\110\111\117\110\99\101\109\101\110\116\0\4\5\0\0\0\69\120\105\116\0\4\6\0\0\0\73\109\97\103\101\0\4\24\0\0\0\114\98\120\97\115\115\101\116\105\100\58\47\47\50\49\51\50\53\52\52\49\50\54\0\4\5\0\0\0\119\97\105\116\0\4\14\0\0\0\84\119\101\101\110\80\111\115\105\116\105\111\110\0\3\0\0\0\0\0\192\98\64\4\6\0\0\0\73\110\79\117\116\0\4\6\0\0\0\81\117\97\114\116\0\4\18\0\0\0\77\111\117\115\101\66\117\116\116\111\110\49\67\108\105\99\107\0\4\8\0\0\0\67\111\110\110\101\99\116\0\3\0\0\0\0\0\0\20\64\4\11\0\0\0\108\111\97\100\115\116\114\105\110\103\0\4\8\0\0\0\72\116\116\112\71\101\116\0\4\69\0\0\0\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\69\100\103\101\73\89\47\105\110\102\105\110\105\116\101\121\105\101\108\100\47\109\97\115\116\101\114\47\115\111\117\114\99\101\0\1\0\0\0\0\0\0\0\0\0\0\0\70\0\0\0\1\0\0\8\22\0\0\0\4\0\0\0\133\64\0\0\134\128\64\1\193\192\0\0\1\1\1\0\65\65\1\0\129\129\1\0\156\128\128\2\193\192\1\0\1\1\2\0\65\193\0\0\130\1\128\0\195\1\128\3\11\0\64\0\28\64\0\4\42\64\2\0\65\128\2\0\28\64\0\1\4\0\0\0\11\192\66\0\28\64\0\1\30\0\128\0\12\0\0\0\4\14\0\0\0\84\119\101\101\110\80\111\115\105\116\105\111\110\0\4\6\0\0\0\85\68\105\109\50\0\4\4\0\0\0\110\101\119\0\3\0\0\0\0\0\0\224\63\3\0\0\0\0\0\128\102\192\3\0\0\0\0\0\0\0\0\3\0\0\0\0\0\0\121\192\4\6\0\0\0\73\110\79\117\116\0\4\6\0\0\0\81\117\97\114\116\0\4\5\0\0\0\119\97\105\116\0\3\51\51\51\51\51\51\227\63\4\8\0\0\0\68\101\115\116\114\111\121\0\0\0\0\0\22\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\67\0\0\0\68\0\0\0\68\0\0\0\68\0\0\0\69\0\0\0\69\0\0\0\69\0\0\0\70\0\0\0\0\0\0\0\1\0\0\0\7\0\0\0\65\110\110\71\85\73\0\219\0\0\0\1\0\0\0\1\0\0\0\1\0\0\0\1\0\0\0\2\0\0\0\2\0\0\0\2\0\0\0\2\0\0\0\3\0\0\0\3\0\0\0\3\0\0\0\3\0\0\0\4\0\0\0\4\0\0\0\4\0\0\0\4\0\0\0\5\0\0\0\5\0\0\0\5\0\0\0\5\0\0\0\6\0\0\0\6\0\0\0\6\0\0\0\6\0\0\0\8\0\0\0\8\0\0\0\8\0\0\0\8\0\0\0\8\0\0\0\8\0\0\0\8\0\0\0\10\0\0\0\11\0\0\0\11\0\0\0\12\0\0\0\13\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\14\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\15\0\0\0\16\0\0\0\18\0\0\0\19\0\0\0\20\0\0\0\20\0\0\0\20\0\0\0\20\0\0\0\20\0\0\0\20\0\0\0\20\0\0\0\21\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\22\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\23\0\0\0\25\0\0\0\26\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\27\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\28\0\0\0\29\0\0\0\29\0\0\0\29\0\0\0\29\0\0\0\30\0\0\0\31\0\0\0\32\0\0\0\33\0\0\0\33\0\0\0\33\0\0\0\33\0\0\0\33\0\0\0\33\0\0\0\33\0\0\0\34\0\0\0\34\0\0\0\34\0\0\0\34\0\0\0\35\0\0\0\35\0\0\0\35\0\0\0\35\0\0\0\37\0\0\0\38\0\0\0\39\0\0\0\39\0\0\0\39\0\0\0\39\0\0\0\39\0\0\0\39\0\0\0\39\0\0\0\40\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\41\0\0\0\42\0\0\0\44\0\0\0\45\0\0\0\46\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\47\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\48\0\0\0\49\0\0\0\50\0\0\0\50\0\0\0\50\0\0\0\50\0\0\0\51\0\0\0\52\0\0\0\53\0\0\0\53\0\0\0\53\0\0\0\53\0\0\0\53\0\0\0\53\0\0\0\53\0\0\0\54\0\0\0\56\0\0\0\57\0\0\0\58\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\59\0\0\0\60\0\0\0\61\0\0\0\63\0\0\0\63\0\0\0\63\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\64\0\0\0\66\0\0\0\70\0\0\0\70\0\0\0\70\0\0\0\66\0\0\0\72\0\0\0\72\0\0\0\72\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\73\0\0\0\6\0\0\0\7\0\0\0\65\110\110\71\85\73\0\4\0\0\0\218\0\0\0\11\0\0\0\98\97\99\107\103\114\111\117\110\100\0\8\0\0\0\218\0\0\0\8\0\0\0\84\101\120\116\66\111\120\0\12\0\0\0\218\0\0\0\7\0\0\0\115\104\97\100\111\119\0\16\0\0\0\218\0\0\0\10\0\0\0\80\111\112\117\112\84\101\120\116\0\20\0\0\0\218\0\0\0\5\0\0\0\69\120\105\116\0\24\0\0\0\218\0\0\0\0\0\0\0')()
+local Player = game.Players.LocalPlayer
+local Mouse = Player:GetMouse()
+
+local TweenService = game:GetService("TweenService")
+local UserInputService = game:GetService("UserInputService")
+local CoreGuiService = game:GetService("CoreGui")
+local RunService = game:GetService("RunService")
+local TextService = game:GetService("TextService")
+
+local TweenTime = 0.1
+local Level = 1
+
+local GlobalTweenInfo = TweenInfo.new(TweenTime)
+local AlteredTweenInfo = TweenInfo.new(TweenTime, Enum.EasingStyle.Sine, Enum.EasingDirection.Out)
+
+local DropShadowID = "rbxassetid://297774371"
+local DropShadowTransparency = 0.3
+
+local IconLibraryID = "rbxassetid://3926305904"
+local IconLibraryID2 = "rbxassetid://3926307971"
+
+local MainFont = Enum.Font.Gotham
+
+local function GetXY(GuiObject)
+	local X, Y = Mouse.X - GuiObject.AbsolutePosition.X, Mouse.Y - GuiObject.AbsolutePosition.Y
+	local MaxX, MaxY = GuiObject.AbsoluteSize.X, GuiObject.AbsoluteSize.Y
+	X, Y = math.clamp(X, 0, MaxX), math.clamp(Y, 0, MaxY)
+	return X, Y, X/MaxX, Y/MaxY
+end
+
+local function TitleIcon(ButtonOrNot)
+	local NewTitleIcon = Instance.new(ButtonOrNot and "ImageButton" or "ImageLabel")
+	NewTitleIcon.Name = "TitleIcon"
+	NewTitleIcon.BackgroundTransparency = 1
+	NewTitleIcon.Image = IconLibraryID
+	NewTitleIcon.ImageRectOffset = Vector2.new(524, 764)
+	NewTitleIcon.ImageRectSize = Vector2.new(36, 36)
+	NewTitleIcon.Size = UDim2.new(0,14,0,14)
+	NewTitleIcon.Position = UDim2.new(1,-17,0,3)
+	NewTitleIcon.Rotation = 180
+	NewTitleIcon.ZIndex = Level
+	return NewTitleIcon
+end
+
+local function TickIcon(ButtonOrNot)
+	local NewTickIcon = Instance.new(ButtonOrNot and "ImageButton" or "ImageLabel")
+	NewTickIcon.Name = "TickIcon"
+	NewTickIcon.BackgroundTransparency = 1
+	NewTickIcon.Image = "rbxassetid://3926305904"
+	NewTickIcon.ImageRectOffset = Vector2.new(312,4)
+	NewTickIcon.ImageRectSize = Vector2.new(24,24)
+	NewTickIcon.Size = UDim2.new(1,-6,1,-6)
+	NewTickIcon.Position = UDim2.new(0,3,0,3)
+	NewTickIcon.ZIndex = Level
+	return NewTickIcon
+end
+
+local function DropdownIcon(ButtonOrNot)
+	local NewDropdownIcon = Instance.new(ButtonOrNot and "ImageButton" or "ImageLabel")
+	NewDropdownIcon.Name = "DropdownIcon"
+	NewDropdownIcon.BackgroundTransparency = 1
+	NewDropdownIcon.Image = IconLibraryID2
+	NewDropdownIcon.ImageRectOffset = Vector2.new(324,364)
+	NewDropdownIcon.ImageRectSize = Vector2.new(36,36)
+	NewDropdownIcon.Size = UDim2.new(0,16,0,16)
+	NewDropdownIcon.Position = UDim2.new(1,-18,0,2)
+	NewDropdownIcon.ZIndex = Level
+	return NewDropdownIcon
+end
+
+local function SearchIcon(ButtonOrNot)
+	local NewSearchIcon = Instance.new(ButtonOrNot and "ImageButton" or "ImageLabel")
+	NewSearchIcon.Name = "SearchIcon"
+	NewSearchIcon.BackgroundTransparency = 1
+	NewSearchIcon.Image = IconLibraryID
+	NewSearchIcon.ImageRectOffset = Vector2.new(964,324)
+	NewSearchIcon.ImageRectSize = Vector2.new(36,36)
+	NewSearchIcon.Size = UDim2.new(0,16,0,16)
+	NewSearchIcon.Position = UDim2.new(0,2,0,2)
+	NewSearchIcon.ZIndex = Level
+	return NewSearchIcon
+end
+
+local function RoundBox(CornerRadius, ButtonOrNot)
+	local NewRoundBox = Instance.new(ButtonOrNot and "ImageButton" or "ImageLabel")
+	NewRoundBox.BackgroundTransparency = 1
+	NewRoundBox.Image = "rbxassetid://3570695787"
+	NewRoundBox.SliceCenter = Rect.new(100,100,100,100)
+	NewRoundBox.SliceScale = math.clamp((CornerRadius or 5) * 0.01, 0.01, 1)
+	NewRoundBox.ScaleType = Enum.ScaleType.Slice
+	NewRoundBox.ZIndex = Level
+	return NewRoundBox
+end
+
+local function DropShadow()
+	local NewDropShadow = Instance.new("ImageLabel")
+	NewDropShadow.Name = "DropShadow"
+	NewDropShadow.BackgroundTransparency = 1
+	NewDropShadow.Image = DropShadowID
+	NewDropShadow.ImageTransparency = DropShadowTransparency
+	NewDropShadow.Size = UDim2.new(1,0,1,0)
+	NewDropShadow.ZIndex = Level
+	return NewDropShadow
+end
+
+local function Frame()
+	local NewFrame = Instance.new("Frame")
+	NewFrame.BorderSizePixel = 0
+	NewFrame.ZIndex = Level
+	return NewFrame
+end
+
+local function ScrollingFrame()
+	local NewScrollingFrame = Instance.new("ScrollingFrame")
+	NewScrollingFrame.BackgroundTransparency = 1
+	NewScrollingFrame.BorderSizePixel = 0
+	NewScrollingFrame.ScrollBarThickness = 0
+	NewScrollingFrame.ZIndex = Level
+	return NewScrollingFrame
+end
+
+local function TextButton(Text, Size)
+	local NewTextButton = Instance.new("TextButton")
+	NewTextButton.Text = Text
+	NewTextButton.AutoButtonColor = false
+	NewTextButton.Font = MainFont
+	NewTextButton.TextColor3 = Color3.fromRGB(255,255,255)
+	NewTextButton.BackgroundTransparency = 1
+	NewTextButton.TextSize = Size or 12
+	NewTextButton.Size = UDim2.new(1,0,1,0)
+	NewTextButton.ZIndex = Level
+	return NewTextButton
+end
+
+local function TextBox(Text, Size)
+	local NewTextBox = Instance.new("TextBox")
+	NewTextBox.Text = Text
+	NewTextBox.Font = MainFont
+	NewTextBox.TextColor3 = Color3.fromRGB(255,255,255)
+	NewTextBox.BackgroundTransparency = 1
+	NewTextBox.TextSize = Size or 12
+	NewTextBox.Size = UDim2.new(1,0,1,0)
+	NewTextBox.ZIndex = Level
+	return NewTextBox
+end
+
+local function TextLabel(Text, Size)
+	local NewTextLabel = Instance.new("TextLabel")
+	NewTextLabel.Text = Text
+	NewTextLabel.Font = MainFont
+	NewTextLabel.TextColor3 = Color3.fromRGB(255,255,255)
+	NewTextLabel.BackgroundTransparency = 1
+	NewTextLabel.TextSize = Size or 12
+	NewTextLabel.Size = UDim2.new(1,0,1,0)
+	NewTextLabel.ZIndex = Level
+	return NewTextLabel
+end
+
+local function Tween(GuiObject, Dictionary)
+	local TweenBase = TweenService:Create(GuiObject, GlobalTweenInfo, Dictionary)
+	TweenBase:Play()
+	return TweenBase
+end
+
+local UILibrary = {}
+
+function UILibrary.Load(GUITitle)
+	local TargetedParent = RunService:IsStudio() and Player:WaitForChild("PlayerGui") or CoreGuiService
+	
+	local FindOldInstance = TargetedParent:FindFirstChild(GUITitle)
+	
+	if FindOldInstance then
+		FindOldInstance:Destroy()
+	end
+	
+	local NewInstance, ContainerFrame, ContainerShadow, MainFrame
+	
+	NewInstance = Instance.new("ScreenGui")
+	NewInstance.Name = GUITitle
+	NewInstance.Parent = TargetedParent
+	
+	ContainerFrame = Frame()
+	ContainerFrame.Name = "ContainerFrame"
+	ContainerFrame.Size = UDim2.new(0,500,0,300)
+	ContainerFrame.Position = UDim2.new(0.5,-250,0.5,-150)
+	ContainerFrame.BackgroundTransparency = 1
+	ContainerFrame.Parent = NewInstance
+	
+	ContainerShadow = DropShadow()
+	ContainerShadow.Name = "Shadow"
+	ContainerShadow.Parent = ContainerFrame
+	
+	Level += 1
+	
+	MainFrame = RoundBox(5)
+	MainFrame.ClipsDescendants = true
+	MainFrame.Name = "MainFrame"
+	MainFrame.Size = UDim2.new(1,-50,1,-30)
+	MainFrame.Position = UDim2.new(0,25,0,15)
+	MainFrame.ImageColor3 = Color3.fromRGB(30,30,30)
+	MainFrame.Parent = ContainerFrame
+	
+	local MenuBar, DisplayFrame, TitleBar
+	
+	MenuBar = ScrollingFrame()
+	MenuBar.Name = "MenuBar"
+	MenuBar.BackgroundTransparency = 0.7
+	MenuBar.BackgroundColor3 = Color3.fromRGB(20,20,20)
+	MenuBar.Size = UDim2.new(0,100,0,235)
+	MenuBar.Position = UDim2.new(0,5,0,30)
+	MenuBar.CanvasSize = UDim2.new(0,0,0,0)
+	MenuBar.Parent = MainFrame
+	
+	DisplayFrame = RoundBox(5)
+	DisplayFrame.Name = "Display"
+	DisplayFrame.ImageColor3 = Color3.fromRGB(20,20,20)
+	DisplayFrame.Size = UDim2.new(1,-115,0,235)
+	DisplayFrame.Position = UDim2.new(0,110,0,30)
+	DisplayFrame.Parent = MainFrame
+	
+	TitleBar = RoundBox(5)
+	TitleBar.Name = "TitleBar"
+	TitleBar.ImageColor3 = Color3.fromRGB(40,40,40)
+	TitleBar.Size = UDim2.new(1,-10,0,20)
+	TitleBar.Position = UDim2.new(0,5,0,5)
+	TitleBar.Parent = MainFrame
+	
+	Level += 1
+	
+	local MinimiseButton, TitleButton
+	local MinimiseToggle = true
+	
+	MinimiseButton = TitleIcon(true)
+	MinimiseButton.Name = "Minimise"
+	MinimiseButton.Parent = TitleBar
+	
+	TitleButton = TextButton(GUITitle, 14)
+	TitleButton.Name = "TitleButton"
+	TitleButton.Size = UDim2.new(1,-20,1,0)
+	TitleButton.Parent = TitleBar
+	
+	MinimiseButton.MouseButton1Down:Connect(function()
+		MinimiseToggle = not MinimiseToggle
+		if not MinimiseToggle then
+			Tween(MainFrame, {Size = UDim2.new(1,-50,0,30)})
+			Tween(MinimiseButton, {Rotation = 0})
+			Tween(ContainerShadow, {ImageTransparency = 1})
+		else
+			Tween(MainFrame, {Size = UDim2.new(1,-50,1,-30)})
+			Tween(MinimiseButton, {Rotation = 180})
+			Tween(ContainerShadow, {ImageTransparency = DropShadowTransparency})
+		end
+	end)
+	
+	TitleButton.MouseButton1Down:Connect(function()
+		local LastMX, LastMY = Mouse.X, Mouse.Y
+		local Move, Kill
+		Move = Mouse.Move:Connect(function()
+			local NewMX, NewMY = Mouse.X, Mouse.Y
+			local DX, DY = NewMX - LastMX, NewMY - LastMY
+			ContainerFrame.Position += UDim2.new(0,DX,0,DY)
+			LastMX, LastMY = NewMX, NewMY
+		end)
+		Kill = UserInputService.InputEnded:Connect(function(input)
+			if input.UserInputType == Enum.UserInputType.MouseButton1 then
+				Move:Disconnect()
+				Kill:Disconnect()
+			end
+		end)
+	end)
+	
+	Level += 1
+	
+	local MenuListLayout
+	
+	MenuListLayout = Instance.new("UIListLayout")
+	MenuListLayout.SortOrder = Enum.SortOrder.LayoutOrder
+	MenuListLayout.Padding = UDim.new(0,5)
+	MenuListLayout.Parent = MenuBar
+	
+	local TabCount = 0
+	
+	local TabLibrary = {}
+	
+	function TabLibrary.GetUI()
+		return NewInstance
+	end
+
+	function TabLibrary.AddPage(PageTitle, SearchBarIncluded)
+		local SearchBarIncluded = (SearchBarIncluded == nil) and true or SearchBarIncluded
+		
+		local PageContainer = RoundBox(5)
+		PageContainer.Name = PageTitle
+		PageContainer.Size = UDim2.new(1,0,0,20)
+		PageContainer.LayoutOrder = TabCount
+		PageContainer.ImageColor3 = (TabCount == 0) and Color3.fromRGB(50,50,50) or Color3.fromRGB(40,40,40)
+		PageContainer.Parent = MenuBar
+		
+		local PageButton = TextButton(PageTitle, 14)
+		PageButton.Name = PageTitle.."Button"
+		PageButton.TextTransparency = (TabCount == 0) and 0 or 0.5
+		PageButton.Parent = PageContainer
+		
+		PageButton.MouseButton1Down:Connect(function()
+			spawn(function()
+				for _, Button in next, MenuBar:GetChildren() do
+					if Button:IsA("GuiObject") then
+						local IsButton = string.find(Button.Name:lower(), PageContainer.Name:lower())
+						local Button2 = Button:FindFirstChild(Button.Name.."Button")
+						Tween(Button, {ImageColor3 = IsButton and Color3.fromRGB(50,50,50) or Color3.fromRGB(40,40,40)})
+						Tween(Button2, {TextTransparency = IsButton and 0 or 0.5})
+					end
+				end
+			end)
+			spawn(function()
+				for _, Display in next, DisplayFrame:GetChildren() do
+					if Display:IsA("GuiObject") then
+						Display.Visible = string.find(Display.Name:lower(), PageContainer.Name:lower())
+					end
+				end
+			end)
+		end)
+		
+		local DisplayPage = ScrollingFrame()
+		DisplayPage.Visible = (TabCount == 0)
+		DisplayPage.Name = PageTitle
+		DisplayPage.Size = UDim2.new(1,0,1,0)
+		DisplayPage.Parent = DisplayFrame
+		
+		TabCount += 1
+		
+		local DisplayList = Instance.new("UIListLayout")
+		DisplayList.SortOrder = Enum.SortOrder.LayoutOrder
+		DisplayList.Padding = UDim.new(0,5)
+		DisplayList.Parent = DisplayPage
+		
+		DisplayList:GetPropertyChangedSignal("AbsoluteContentSize"):Connect(function()
+			local Y1 = DisplayList.AbsoluteContentSize.Y
+			local Y2 = DisplayPage.AbsoluteWindowSize.Y
+			DisplayPage.CanvasSize = UDim2.new(0,0,(Y1/Y2)+0.05,0)
+		end)
+		
+		local DisplayPadding = Instance.new("UIPadding")
+		DisplayPadding.PaddingBottom = UDim.new(0,5)
+		DisplayPadding.PaddingTop = UDim.new(0,5)
+		DisplayPadding.PaddingLeft = UDim.new(0,5)
+		DisplayPadding.PaddingRight = UDim.new(0,5)
+		DisplayPadding.Parent = DisplayPage
+		
+		if SearchBarIncluded then
+			local SearchBarContainer = RoundBox(5)
+			SearchBarContainer.Name = "SearchBar"
+			SearchBarContainer.ImageColor3 = Color3.fromRGB(35,35,35)
+			SearchBarContainer.Size = UDim2.new(1,0,0,20)
+			SearchBarContainer.Parent = DisplayPage
+			
+			local SearchBox = TextBox("Search...")
+			SearchBox.Name = "SearchInput"
+			SearchBox.Position = UDim2.new(0,20,0,0)
+			SearchBox.Size = UDim2.new(1,-20,1,0)
+			SearchBox.TextTransparency = 0.5
+			SearchBox.TextXAlignment = Enum.TextXAlignment.Left
+			SearchBox.Parent = SearchBarContainer
+			
+			local SearchIcon = SearchIcon()
+			SearchIcon.Parent = SearchBarContainer
+			
+			SearchBox:GetPropertyChangedSignal("Text"):Connect(function()
+				local NewValue = SearchBox.Text
+				
+				for _, Element in next, DisplayPage:GetChildren() do
+					if Element:IsA("Frame") then
+						if not string.find(Element.Name:lower(), "label") then
+							if string.find(Element.Name:lower(), NewValue:lower()) then
+								Element.Visible = true
+							else
+								Element.Visible = false
+							end
+						end
+					end
+				end
+			end)
+		end
+		
+		local PageLibrary = {}
+		
+		function PageLibrary.AddButton(Text, Callback, Parent, Underline)
+			local ButtonContainer = Frame()
+			ButtonContainer.Name = Text.."BUTTON"
+			ButtonContainer.Size = UDim2.new(1,0,0,20)
+			ButtonContainer.BackgroundTransparency = 1
+			ButtonContainer.Parent = Parent or DisplayPage
+			
+			local ButtonForeground = RoundBox(5)
+			ButtonForeground.Name = "ButtonForeground"
+			ButtonForeground.Size = UDim2.new(1,0,1,0)
+			ButtonForeground.ImageColor3 = Color3.fromRGB(35,35,35)
+			ButtonForeground.Parent = ButtonContainer
+			
+			if Underline then
+				local TextSize = TextService:GetTextSize(Text, 12, Enum.Font.Gotham, Vector2.new(0,0))
+			
+				local BottomEffect = Frame()
+				BottomEffect.Size = UDim2.new(0,TextSize.X,0,1)
+				BottomEffect.Position = UDim2.new(0.5,(-TextSize.X/2)-1,1,-1)
+				BottomEffect.BackgroundColor3 = Color3.fromRGB(255,255,255)
+				BottomEffect.BackgroundTransparency = 0.5
+				BottomEffect.Parent = ButtonForeground
+			end
+			
+			local HiddenButton = TextButton(Text, 12)
+			HiddenButton.Parent = ButtonForeground
+			
+			HiddenButton.MouseButton1Down:Connect(function()
+				Callback()
+				Tween(ButtonForeground, {ImageColor3 = Color3.fromRGB(45,45,45)})
+				Tween(HiddenButton, {TextTransparency = 0.5})
+				wait(TweenTime)
+				Tween(ButtonForeground, {ImageColor3 = Color3.fromRGB(35,35,35)})
+				Tween(HiddenButton, {TextTransparency = 0})
+			end)
+            return HiddenButton
+		end
+		
+		function PageLibrary.AddLabel(Text)
+			local LabelContainer = Frame()
+			LabelContainer.Name = Text.."LABEL"
+			LabelContainer.Size = UDim2.new(1,0,0,20)
+			LabelContainer.BackgroundTransparency = 1
+			LabelContainer.Parent = DisplayPage
+			
+			local LabelForeground = RoundBox(5)
+			LabelForeground.Name = "LabelForeground"
+			LabelForeground.ImageColor3 = Color3.fromRGB(45,45,45)
+			LabelForeground.Size = UDim2.new(1,0,1,0)
+			LabelForeground.Parent = LabelContainer
+			
+			local HiddenLabel = TextLabel(Text, 12)
+			HiddenLabel.Parent = LabelForeground
+            return HiddenLabel
+		end
+		
+		function PageLibrary.AddDropdown(Text, ConfigurationArray, Callback)
+			local DropdownArray = ConfigurationArray or {}
+			
+			local DropdownToggle = false
+			
+			local DropdownContainer = Frame()
+			DropdownContainer.Size = UDim2.new(1,0,0,20)
+			DropdownContainer.Name = Text.."DROPDOWN"
+			DropdownContainer.BackgroundTransparency = 1
+			DropdownContainer.Parent = DisplayPage
+			
+			local DropdownForeground = RoundBox(5)
+			DropdownForeground.ClipsDescendants = true
+			DropdownForeground.ImageColor3 = Color3.fromRGB(35,35,35)
+			DropdownForeground.Size = UDim2.new(1,0,1,0)
+			DropdownForeground.Parent = DropdownContainer
+			
+			local DropdownExpander = DropdownIcon(true)
+			DropdownExpander.Parent = DropdownForeground
+			
+			local DropdownLabel = TextLabel(Text, 12)
+			DropdownLabel.Size = UDim2.new(1,0,0,20)
+			DropdownLabel.Parent = DropdownForeground
+			
+			local DropdownFrame = Frame()
+			DropdownFrame.Position = UDim2.new(0,0,0,20)
+			DropdownFrame.BackgroundTransparency = 1
+			DropdownFrame.Size = UDim2.new(1,0,0,#DropdownArray*20)
+			DropdownFrame.Parent = DropdownForeground
+			
+			local DropdownList = Instance.new("UIListLayout")
+			DropdownList.Parent = DropdownFrame
+			
+			for OptionIndex, Option in next, DropdownArray do
+				PageLibrary.AddButton(Option, function()
+					Callback(Option)
+					DropdownLabel.Text = Text..": "..Option
+				end, DropdownFrame, false)
+			end
+			
+			DropdownExpander.MouseButton1Down:Connect(function()
+				DropdownToggle = not DropdownToggle
+				Tween(DropdownContainer, {Size = DropdownToggle and UDim2.new(1,0,0,20+(#DropdownArray*20)) or UDim2.new(1,0,0,20)})
+				Tween(DropdownExpander, {Rotation = DropdownToggle and 135 or 0})
+			end)
+		end
+		
+		function PageLibrary.AddColourPicker(Text, DefaultColour, Callback)
+			local DefaultColour = DefaultColour or Color3.fromRGB(255,255,255)
+			
+			local ColourDictionary = {
+				white = Color3.fromRGB(255,255,255),
+				black = Color3.fromRGB(0,0,0),
+				red = Color3.fromRGB(255,0,0),
+				green = Color3.fromRGB(0,255,0),
+				blue = Color3.fromRGB(0,0,255)
+			}
+			
+			if typeof(DefaultColour) == "table" then
+				DefaultColour = Color3.fromRGB(DefaultColour[1] or 255, DefaultColour[2] or 255, DefaultColour[3] or 255)
+			elseif typeof(DefaultColour) == "string" then
+				DefaultColour = ColourDictionary[DefaultColour:lower()] or ColourDictionary["white"]
+			end
+			
+			local PickerContainer = Frame()
+			PickerContainer.ClipsDescendants = true
+			PickerContainer.Size = UDim2.new(1,0,0,20)
+			PickerContainer.Name = Text.."COLOURPICKER"
+			PickerContainer.BackgroundTransparency = 1
+			PickerContainer.Parent = DisplayPage
+			
+			local ColourTracker = Instance.new("Color3Value")
+			ColourTracker.Value = DefaultColour
+			ColourTracker.Parent = PickerContainer
+			
+			local PickerLeftSide, PickerRightSide, PickerFrame = RoundBox(5), RoundBox(5), RoundBox(5)
+			
+			PickerLeftSide.Size = UDim2.new(1,-22,1,0)
+			PickerLeftSide.ImageColor3 = Color3.fromRGB(35,35,35)
+			PickerLeftSide.Parent = PickerContainer
+			
+			PickerRightSide.Size = UDim2.new(0,20,1,0)
+			PickerRightSide.Position = UDim2.new(1,-20,0,0)
+			PickerRightSide.ImageColor3 = DefaultColour
+			PickerRightSide.Parent = PickerContainer
+			
+			PickerFrame.ImageColor3 = Color3.fromRGB(35,35,35)
+			PickerFrame.Size = UDim2.new(1,-22,0,60)
+			PickerFrame.Position = UDim2.new(0,0,0,20)
+			PickerFrame.Parent = PickerContainer
+			
+			local PickerList = Instance.new("UIListLayout")
+			PickerList.SortOrder = Enum.SortOrder.LayoutOrder
+			PickerList.Parent = PickerFrame
+			
+			local RedPicker = PageLibrary.AddSlider("R", {Min = 0, Max = 255, Def = ColourTracker.Value.R * 255}, function(Value)
+				ColourTracker.Value = Color3.fromRGB(Value, ColourTracker.Value.G * 255, ColourTracker.Value.B * 255)
+				Callback(ColourTracker.Value)
+			end, PickerFrame)
+			
+			local BluePicker = PageLibrary.AddSlider("G", {Min = 0, Max = 255, Def = ColourTracker.Value.G * 255}, function(Value)
+				ColourTracker.Value = Color3.fromRGB(ColourTracker.Value.R * 255, Value, ColourTracker.Value.B * 255)
+				Callback(ColourTracker.Value)
+			end, PickerFrame)
+			
+			local GreenPicker = PageLibrary.AddSlider("B", {Min = 0, Max = 255, Def = ColourTracker.Value.B * 255}, function(Value)
+				ColourTracker.Value = Color3.fromRGB(ColourTracker.Value.R * 255, ColourTracker.Value.G * 255, Value)
+				Callback(ColourTracker.Value)
+			end, PickerFrame)
+			
+			local EffectLeft, EffectRight = Frame(), Frame()
+			
+			EffectLeft.BackgroundColor3 = Color3.fromRGB(35,35,35)
+			EffectLeft.Position = UDim2.new(1,-5,0,0)
+			EffectLeft.Size = UDim2.new(0,5,1,0)
+			EffectLeft.Parent = PickerLeftSide
+			
+			EffectRight.BackgroundColor3 = DefaultColour
+			EffectRight.Size = UDim2.new(0,5,1,0)
+			EffectRight.Parent = PickerRightSide
+			
+			local PickerLabel = TextLabel(Text, 12)
+			PickerLabel.Size = UDim2.new(1,0,0,20)
+			PickerLabel.Parent = PickerLeftSide
+			
+			ColourTracker:GetPropertyChangedSignal("Value"):Connect(function()
+				local NewValue = ColourTracker.Value
+				EffectRight.BackgroundColor3 = NewValue
+				PickerRightSide.ImageColor3 = NewValue
+			end)
+			
+			local PickerToggle = false
+			
+			local PickerButton = TextButton("")
+			PickerButton.Parent = PickerRightSide
+			
+			PickerButton.MouseButton1Down:Connect(function()
+				PickerToggle = not PickerToggle
+				Tween(PickerContainer, {Size = PickerToggle and UDim2.new(1,0,0,80) or UDim2.new(1,0,0,20)})
+			end)
+		end
+		
+		function PageLibrary.AddSlider(Text, ConfigurationDictionary, Callback, Parent)
+			local Configuration = ConfigurationDictionary
+			local Minimum = Configuration.Minimum or Configuration.minimum or Configuration.Min or Configuration.min
+			local Maximum = Configuration.Maximum or Configuration.maximum or Configuration.Max or Configuration.max
+			local Default = Configuration.Default or Configuration.default or Configuration.Def or Configuration.def
+			
+			if Minimum > Maximum then
+				local StoreValue = Minimum
+				Minimum = Maximum
+				Maximum = StoreValue
+			end
+			
+			Default = math.clamp(Default, Minimum, Maximum)
+			
+			local DefaultScale = Default/Maximum
+			
+			local SliderContainer = Frame()
+			SliderContainer.Name = Text.."SLIDER"
+			SliderContainer.Size = UDim2.new(1,0,0,20)
+			SliderContainer.BackgroundTransparency = 1
+			SliderContainer.Parent = Parent or DisplayPage
+			
+			local SliderForeground = RoundBox(5)
+			SliderForeground.Name = "SliderForeground"
+			SliderForeground.ImageColor3 = Color3.fromRGB(35,35,35)
+			SliderForeground.Size = UDim2.new(1,0,1,0)
+			SliderForeground.Parent = SliderContainer
+			
+			local SliderButton = TextButton(Text..": "..Default)
+			SliderButton.Size = UDim2.new(1,0,1,0)
+			SliderButton.ZIndex = 6
+			SliderButton.Parent = SliderForeground
+			
+			local SliderFill = RoundBox(5)
+			SliderFill.Size = UDim2.new(DefaultScale,0,1,0)
+			SliderFill.ImageColor3 = Color3.fromRGB(70,70,70)
+			SliderFill.ZIndex = 5
+			SliderFill.ImageTransparency = 0.7
+			SliderFill.Parent = SliderButton
+			
+			SliderButton.MouseButton1Down:Connect(function()
+				Tween(SliderFill, {ImageTransparency = 0.5})
+				local X, Y, XScale, YScale = GetXY(SliderButton)
+				local Value = math.floor(Minimum + ((Maximum - Minimum) * XScale))
+				Callback(Value)
+				SliderButton.Text = Text..": "..tostring(Value)
+				local TargetSize = UDim2.new(XScale,0,1,0)
+				Tween(SliderFill, {Size = TargetSize})
+				local SliderMove, SliderKill
+				SliderMove = Mouse.Move:Connect(function()
+					Tween(SliderFill, {ImageTransparency = 0.5})
+					local X, Y, XScale, YScale = GetXY(SliderButton)
+					local Value = math.floor(Minimum + ((Maximum - Minimum) * XScale))
+					Callback(Value)
+					SliderButton.Text = Text..": "..tostring(Value)
+					local TargetSize = UDim2.new(XScale,0,1,0)
+					Tween(SliderFill, {Size = TargetSize})
+				end)
+				SliderKill = UserInputService.InputEnded:Connect(function(UserInput)
+					if UserInput.UserInputType == Enum.UserInputType.MouseButton1 then
+						Tween(SliderFill, {ImageTransparency = 0.7})
+						SliderMove:Disconnect()
+						SliderKill:Disconnect()
+					end
+				end)
+			end)
+		end
+		
+		function PageLibrary.AddToggle(Text, Default, Callback)
+			local ThisToggle = Default or false
+			
+			local ToggleContainer = Frame()
+			ToggleContainer.Name = Text.."TOGGLE"
+			ToggleContainer.Size = UDim2.new(1,0,0,20)
+			ToggleContainer.BackgroundTransparency = 1
+			ToggleContainer.Parent = DisplayPage
+			
+			local ToggleLeftSide, ToggleRightSide, EffectFrame, RightTick = RoundBox(5), RoundBox(5), Frame(), TickIcon()
+			local FlatLeft, FlatRight = Frame(), Frame()
+			
+			ToggleLeftSide.Size = UDim2.new(1,-22,1,0)
+			ToggleLeftSide.ImageColor3 = Color3.fromRGB(35,35,35)
+			ToggleLeftSide.Parent = ToggleContainer
+			
+			ToggleRightSide.Position = UDim2.new(1,-20,0,0)
+			ToggleRightSide.Size = UDim2.new(0,20,1,0)
+			ToggleRightSide.ImageColor3 = Color3.fromRGB(45,45,45)
+			ToggleRightSide.Parent = ToggleContainer
+			
+			FlatLeft.BackgroundColor3 = Color3.fromRGB(35,35,35)
+			FlatLeft.Size = UDim2.new(0,5,1,0)
+			FlatLeft.Position = UDim2.new(1,-5,0,0)
+			FlatLeft.Parent = ToggleLeftSide
+			
+			FlatRight.BackgroundColor3 = Color3.fromRGB(45,45,45)
+			FlatRight.Size = UDim2.new(0,5,1,0)
+			FlatRight.Parent = ToggleRightSide
+			
+			EffectFrame.BackgroundColor3 = ThisToggle and Color3.fromRGB(0,255,109) or Color3.fromRGB(255,160,160)
+			EffectFrame.Position = UDim2.new(1,-22,0.2,0)
+			EffectFrame.Size = UDim2.new(0,2,0.6,0)
+			EffectFrame.Parent = ToggleContainer
+			
+			RightTick.ImageTransparency = ThisToggle and 0 or 1
+			RightTick.Parent = ToggleRightSide
+			
+			local ToggleButton = TextButton(Text, 12)
+			ToggleButton.Name = "ToggleButton"
+			ToggleButton.Size = UDim2.new(1,0,1,0)
+			ToggleButton.Parent = ToggleLeftSide
+			
+			ToggleButton.MouseButton1Down:Connect(function()
+				ThisToggle = not ThisToggle
+				Tween(EffectFrame, {BackgroundColor3 = ThisToggle and Color3.fromRGB(0,255,109) or Color3.fromRGB(255,160,160)})
+				Tween(RightTick, {ImageTransparency = ThisToggle and 0 or 1})
+				Callback(ThisToggle)
+			end)	
+		end
+		
+		return PageLibrary
+	end
+	
+	return TabLibrary
+end
+
+return UILibrary
